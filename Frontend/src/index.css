@@ -1,0 +1,15 @@
+*{
+    font-size: 20px;
+}
+.button{
+    min-width: 90px;
+}
+.myrow{
+    margin-bottom: 10px;
+    text-align: start;
+}
+.heading{
+    font-weight: 700px;
+    font-size: 50px;
+
+}
